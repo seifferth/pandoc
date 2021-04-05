@@ -17,7 +17,7 @@ extra-deps:
 - random-1.2.0
 # - citeproc-0.3.0.9
 - git: https://github.com/jgm/citeproc
-  commit: 59f172a53d939af8085c4487c641eb192c719a6d
+  commit: 9a7494dc6e93451baeb7df451fd9c9d50e516a7a
 - git: https://github.com/jgm/unicode-collation
   commit: 00f5e8c90774b20e1185a8c1e81856049e743db6
 ghc-options:

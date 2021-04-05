@@ -5,7 +5,7 @@ flags: +embed_data_files
 source-repository-package
   type: git
   location: https://github.com/jgm/citeproc
-  tag: 59f172a53d939af8085c4487c641eb192c719a6d
+  tag: 9a7494dc6e93451baeb7df451fd9c9d50e516a7a
 
 source-repository-package
   type: git
