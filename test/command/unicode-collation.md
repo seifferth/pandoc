@@ -104,3 +104,27 @@ Oñate, J. (1985).
 Ubina, A. J. (1985).
 ```
 
+```
+% pandoc -C -t plain
+---
+nocite: '@*'
+lang: fr
+references:
+- id: cote
+  author: cote
+- id: côte
+  author: côte
+- id: coté
+  author: coté
+- id: côté
+  author: côté
+...
+^D
+cote. s. d.
+
+côte. s. d.
+
+coté. s. d.
+
+côté. s. d.
+```
